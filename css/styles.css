@@ -1,4 +1,3 @@
-<header>
 .logo{
 font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -7,6 +6,9 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
+}
+.studio{
+   color: #2e2f42;
 }
 .page-nav{
 
@@ -33,25 +35,4 @@ color: #4d5ae5;
 .address .link:active,
 .address .link:hover{
     color: #404bbf;
-}
-</header>
-.button{
-    color: #9747FF;
-    width: 210px;
-    height: 159px;
-    border: 1px;
-}
-.button .link:hover{
-    color:#2E2F42;
-    text-shadow: 0px 2px 1px 0px #2E2F4214;
-}
-.team-cards{
-   background: #FFFFFF;
-   box-shadow: 0px 2px 1px 0px #2E2F4214;
-    box-shadow: 0px 1px 1px 0px #2E2F4229;
-    box-shadow: 0px 1px 6px 0px #2E2F4214;
-}
-.team-cards .img{
-    width: 264px;
-    height: 260px;
 }
