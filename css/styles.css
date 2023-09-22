@@ -1,0 +1,35 @@
+.logo{
+
+}
+.page-nav{
+    color: #2E2F42;
+    width: 48px;
+    height: 24px;
+}
+.page-nav .link:active{
+   color: #404BBF;
+   width: 48px;
+   height: 4px;
+   top: 44px;
+   padding: 2px;
+}
+.button{
+    color: #9747FF;
+    width: 210px;
+    height: 159px;
+    border: 1px;
+}
+.button .link:hover{
+    color:#2E2F42;
+    text-shadow: 0px 2px 1px 0px #2E2F4214;
+}
+.team-cards{
+   background: #FFFFFF;
+   box-shadow: 0px 2px 1px 0px #2E2F4214;
+    box-shadow: 0px 1px 1px 0px #2E2F4229;
+    box-shadow: 0px 1px 6px 0px #2E2F4214;
+}
+.team-cards .img{
+    width: 264px;
+    height: 260px;
+}
