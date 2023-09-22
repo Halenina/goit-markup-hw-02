@@ -22,7 +22,7 @@ color: #4d5ae5;
 .page-nav .link:hover {
    color: #404BBF;
 }
-.page-nav .link:active {
+.page-nav .link:focus {
     color: #404BBF;
 }
 
@@ -32,7 +32,31 @@ color: #4d5ae5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.address .link:active,
+.address .link:focus,
 .address .link:hover{
     color: #404bbf;
+}
+
+.section1{
+    background-color: #2e2f42;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer
+}
+.button .link:focus{
+    background-color: #404BBF;
+}
+.button .link:hover{
+    background-color: #404BBF;
 }
