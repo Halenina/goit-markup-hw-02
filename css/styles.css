@@ -9,17 +9,32 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 .page-nav{
+
     color: #2E2F42;
-    width: 48px;
-    height: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
 }
-.page-nav .link:active{
+.page-nav .link:hover {
    color: #404BBF;
-   width: 48px;
-   height: 4px;
-   top: 44px;
-   padding: 2px;
 }
+.page-nav .link:active {
+    color: #404BBF;
+}
+
+.address {
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.address .link:active,
+.address .link:hover{
+    color: #404bbf;
+}
+</header>
 .button{
     color: #9747FF;
     width: 210px;
