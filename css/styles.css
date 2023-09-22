@@ -37,10 +37,10 @@ color: #4d5ae5;
     color: #404bbf;
 }
 
-.section1 {
+.sectionf {
     background-color: #2e2f42;
 }
-h1{
+hf{
     font-size: 56px;
         line-height: 1.07;
         text-align: center;
@@ -63,23 +63,23 @@ h1{
 .button .link:hover{
     background-color: #404BBF;
 }
-.h3{
+.hs{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.p1{
+.ps{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.section3{
+.sectionb{
     background-color: #F4F4FD;
 }
-.h2{
+.hs{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -90,20 +90,20 @@ h1{
 .team-cards{
     background-color: #FFFFFF
 }
-.h3{
+.hb{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.p1{
+.pb{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455; 
 }
-.h2{
+.hs{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -111,14 +111,14 @@ h1{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.h3{
+.ha{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.p1{
+.pa{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
