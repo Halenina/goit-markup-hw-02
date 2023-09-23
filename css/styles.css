@@ -61,10 +61,10 @@ color: #4d5ae5;
     color: #ffffff;
     cursor: pointer
 }
-.button .link:focus{
+.button:focus{
     background-color: #404BBF;
 }
-.button .link:hover{
+.button:hover{
     background-color: #404BBF;
 }
 .hs {
