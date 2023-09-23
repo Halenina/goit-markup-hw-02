@@ -11,13 +11,14 @@ color: #4d5ae5;
    color: #2e2f42;
 }
 .page-nav{
-
-    color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 
+}
+.page-nav{
+    color: #2E2F42;
 }
 .page-nav .link:hover {
    color: #404BBF;
@@ -30,6 +31,8 @@ color: #4d5ae5;
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+/address{
     color: #434455;
 }
 .address .link:focus,
@@ -37,11 +40,11 @@ color: #4d5ae5;
     color: #404bbf;
 }
 
-.button {
+.section-button {
     background-color: #2e2f42;
 }
 hf{
-    font-size: 56px;
+       font-size: 56px;
         line-height: 1.07;
         text-align: center;
         letter-spacing: 0.02em;
@@ -79,7 +82,7 @@ hf{
 .sectionb{
     background-color: #F4F4FD;
 }
-.hs{
+.hss{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -103,7 +106,7 @@ hf{
     letter-spacing: 0.02em;
     color: #434455; 
 }
-.hs{
+.hsss{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
