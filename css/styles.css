@@ -18,7 +18,7 @@ color: #4d5ae5;
 
 }
 .page-nav{
-    color: #2E2F42;
+    color: #2e2f42;
 }
 .page-nav .link:hover {
    color: #404BBF;
@@ -32,7 +32,7 @@ color: #4d5ae5;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-/address{
+.address{
     color: #434455;
 }
 .address .link:focus,
@@ -43,7 +43,7 @@ color: #4d5ae5;
 .section-button {
     background-color: #2e2f42;
 }
-hf{
+.hf {
        font-size: 56px;
         line-height: 1.07;
         text-align: center;
@@ -66,7 +66,7 @@ hf{
 .button .link:hover{
     background-color: #404BBF;
 }
-.hs{
+.hs {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -93,14 +93,14 @@ hf{
 .team-cards{
     background-color: #FFFFFF
 }
-.hb{
+.team-cards .hb{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.pb{
+.team-cards .pb{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -114,14 +114,14 @@ hf{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.ha{
+.project-cards .ha{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.pa{
+.project-cards .pa{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
