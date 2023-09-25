@@ -13,10 +13,10 @@ body{
     background-color: #FFFFFF;
 }
 .studio{
-   color: #2e2f42;
+   color: ##2E2F42;
 }
 .page-nav{
-    color: #2e2f42;
+    color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -83,7 +83,7 @@ body{
 .sectionb{
     background-color: #F4F4FD;
 }
-.hss{
+.team{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -94,20 +94,20 @@ body{
 .team-cards{
     background-color: #FFFFFF
 }
-.team-cards .hb{
+.team-members{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.team-cards .pb{
+.team-paragh{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455; 
 }
-.hsss{
+.portfolio{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -115,14 +115,14 @@ body{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.project-cards .ha{
+.project-header{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.project-cards .pa{
+.project-paragh{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
