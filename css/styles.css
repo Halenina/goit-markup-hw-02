@@ -13,7 +13,7 @@ body{
     background-color: #FFFFFF;
 }
 .studio{
-   color: ##2E2F42;
+   color: #2E2F42;
 }
 .page-nav{
     color: #2E2F42;
@@ -92,7 +92,7 @@ body{
     color: #2e2f42;
 }
 .team-cards{
-    background-color: #FFFFFF
+    background-color:#FFFFFF;
 }
 .team-members{
     font-weight: 500;
@@ -138,7 +138,10 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;
+color: #4D5AE5;
+}
+.end-studio{
+  color:  #F4F4FD;
 }
 .para{
     line-height: 1.5;
