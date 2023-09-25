@@ -16,15 +16,15 @@ body{
    color: #2E2F42;
 }
 .page-nav{
-    color: #2E2F42;
+   color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 
 }
-.page-nav.link{
-    color: #2E2F42;
+.page-nav .link{
+   color: #2E2F42;
 }
 .page-nav .link:hover {
    color: #404BBF;
@@ -39,7 +39,7 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.address /link{
+.address .link{
     color: #434455;
 }
 .address .link:focus,
